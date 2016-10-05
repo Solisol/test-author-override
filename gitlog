@@ -1,0 +1,284 @@
+commit 97f1e83ce54bb77d4b49b671da41d3da2c92505d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:44:13 2016 +0200
+
+    commit on master
+
+commit dacb9de37811d82e18f44d3b066fe8cab75b581f
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:42:56 2016 +0200
+
+    Initial commit
+-----------------------------------------
+## From branch pre merge
+commit b743bcc4f92019ca3944f1b8d4dd39afade6860e
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:51:14 2016 +0200
+
+    Adding an additional change in new branch
+
+commit 29d7ba616982cbb5bd98d8af9f0eab7e3cc8e403
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:50:14 2016 +0200
+
+    Adding a change in new branch
+
+commit 97f1e83ce54bb77d4b49b671da41d3da2c92505d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:44:13 2016 +0200
+
+    commit on master
+
+commit dacb9de37811d82e18f44d3b066fe8cab75b581f
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:42:56 2016 +0200
+
+    Initial commit
+-----------------------------------------------
+## master after rebase and merge pull request in ui by me
+commit 4757fb208a7796cb37ec35090805cbba00c7172d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:51:14 2016 +0200
+
+    Adding an additional change in new branch
+
+commit 7925759523446274b2dfb2b9cfe2bfdd860a5448
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:50:14 2016 +0200
+
+    Adding a change in new branch
+
+commit 97f1e83ce54bb77d4b49b671da41d3da2c92505d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:44:13 2016 +0200
+
+    commit on master
+
+commit dacb9de37811d82e18f44d3b066fe8cab75b581f
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:42:56 2016 +0200
+
+    Initial commit
+----------------------------------------------------
+## master after merge pull request in ui by me
+commit 927647e7ac37917284d4865d2b0e138279243c59
+Merge: 4757fb2 a610ee4
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:58:41 2016 +0200
+
+    Merge pull request #2 from Solisol/anotherbranch
+    
+    New branch change
+
+commit a610ee47a78a0688d24b0d6367a9982616cfcc57
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:56:22 2016 +0200
+
+    New branch change
+
+commit 4757fb208a7796cb37ec35090805cbba00c7172d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:51:14 2016 +0200
+
+    Adding an additional change in new branch
+
+commit 7925759523446274b2dfb2b9cfe2bfdd860a5448
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:50:14 2016 +0200
+
+    Adding a change in new branch
+
+commit 97f1e83ce54bb77d4b49b671da41d3da2c92505d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:44:13 2016 +0200
+
+    commit on master
+
+commit dacb9de37811d82e18f44d3b066fe8cab75b581f
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:42:56 2016 +0200
+
+    Initial commit
+------------------------------------------------------
+## Master after third branch is merged by pull request (standard merge method) by other user in ui
+commit 4255c34dd2b657f678ea8e4b5ef8ee700c797ef6
+Merge: 927647e 833c65f
+Author: Elisabet Svensson <elisabet.svensson@meltwater.com>
+Date:   Wed Oct 5 09:09:06 2016 +0200
+
+    Merge pull request #3 from Solisol/branch-to-be-merged-by-other
+    
+    third branch change
+
+commit 833c65fb6e0752772526158dc599499a45dc962c
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 09:02:02 2016 +0200
+
+    third branch change
+
+commit 927647e7ac37917284d4865d2b0e138279243c59
+Merge: 4757fb2 a610ee4
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:58:41 2016 +0200
+
+    Merge pull request #2 from Solisol/anotherbranch
+    
+    New branch change
+
+commit a610ee47a78a0688d24b0d6367a9982616cfcc57
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:56:22 2016 +0200
+
+    New branch change
+
+commit 4757fb208a7796cb37ec35090805cbba00c7172d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:51:14 2016 +0200
+
+    Adding an additional change in new branch
+
+commit 7925759523446274b2dfb2b9cfe2bfdd860a5448
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:50:14 2016 +0200
+
+    Adding a change in new branch
+
+commit 97f1e83ce54bb77d4b49b671da41d3da2c92505d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:44:13 2016 +0200
+
+    commit on master
+
+commit dacb9de37811d82e18f44d3b066fe8cab75b581f
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:42:56 2016 +0200
+
+    Initial commit
+------------------------------------------------------------
+## Rebase and merge by other
+commit 99c3ba179b3c6e7885e85a1a9d4eff643ebbace1
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 09:25:44 2016 +0200
+
+    rebase and merge by other
+
+commit 4255c34dd2b657f678ea8e4b5ef8ee700c797ef6
+Merge: 927647e 833c65f
+Author: Elisabet Svensson <elisabet.svensson@meltwater.com>
+Date:   Wed Oct 5 09:09:06 2016 +0200
+
+    Merge pull request #3 from Solisol/branch-to-be-merged-by-other
+    
+    third branch change
+
+commit 833c65fb6e0752772526158dc599499a45dc962c
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 09:02:02 2016 +0200
+
+    third branch change
+
+commit 927647e7ac37917284d4865d2b0e138279243c59
+Merge: 4757fb2 a610ee4
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:58:41 2016 +0200
+
+    Merge pull request #2 from Solisol/anotherbranch
+    
+    New branch change
+
+commit a610ee47a78a0688d24b0d6367a9982616cfcc57
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:56:22 2016 +0200
+
+    New branch change
+
+commit 4757fb208a7796cb37ec35090805cbba00c7172d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:51:14 2016 +0200
+
+    Adding an additional change in new branch
+
+commit 7925759523446274b2dfb2b9cfe2bfdd860a5448
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:50:14 2016 +0200
+
+    Adding a change in new branch
+
+commit 97f1e83ce54bb77d4b49b671da41d3da2c92505d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:44:13 2016 +0200
+
+    commit on master
+
+commit dacb9de37811d82e18f44d3b066fe8cab75b581f
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:42:56 2016 +0200
+
+    Initial commit
+----------------------------------------------------------------
+## Squash and merge by other
+commit e114c13b0aac6184a6d4b02f1d69c8e34ab63d18
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 09:28:12 2016 +0200
+
+    squash and merge (#5)
+
+commit 99c3ba179b3c6e7885e85a1a9d4eff643ebbace1
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 09:25:44 2016 +0200
+
+    rebase and merge by other
+
+commit 4255c34dd2b657f678ea8e4b5ef8ee700c797ef6
+Merge: 927647e 833c65f
+Author: Elisabet Svensson <elisabet.svensson@meltwater.com>
+Date:   Wed Oct 5 09:09:06 2016 +0200
+
+    Merge pull request #3 from Solisol/branch-to-be-merged-by-other
+    
+    third branch change
+
+commit 833c65fb6e0752772526158dc599499a45dc962c
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 09:02:02 2016 +0200
+
+    third branch change
+
+commit 927647e7ac37917284d4865d2b0e138279243c59
+Merge: 4757fb2 a610ee4
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:58:41 2016 +0200
+
+    Merge pull request #2 from Solisol/anotherbranch
+    
+    New branch change
+
+commit a610ee47a78a0688d24b0d6367a9982616cfcc57
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:56:22 2016 +0200
+
+    New branch change
+
+commit 4757fb208a7796cb37ec35090805cbba00c7172d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:51:14 2016 +0200
+
+    Adding an additional change in new branch
+
+commit 7925759523446274b2dfb2b9cfe2bfdd860a5448
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:50:14 2016 +0200
+
+    Adding a change in new branch
+
+commit 97f1e83ce54bb77d4b49b671da41d3da2c92505d
+Author: Jessica Andersson <jessica.andersson@meltwater.com>
+Date:   Wed Oct 5 08:44:13 2016 +0200
+
+    commit on master
+
+commit dacb9de37811d82e18f44d3b066fe8cab75b581f
+Author: Solitude <jesandeit@gmail.com>
+Date:   Wed Oct 5 08:42:56 2016 +0200
+
+    Initial commit
